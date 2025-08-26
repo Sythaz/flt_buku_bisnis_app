@@ -4,7 +4,6 @@ export 'constants/app_colors.dart';
 export 'constants/app_strings.dart';
 export 'themes/app_themes.dart';
 export 'routes/app_routes.dart';
-export 'routes/app_router.dart';
 export 'extensions/context_extensions.dart';
 export 'extensions/string_extensions.dart';
 export 'extensions/datetime_extensions.dart';
